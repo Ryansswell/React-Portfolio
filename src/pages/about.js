@@ -8,7 +8,7 @@
 //             .then(res => setInfo(res.data))
 //             .catch(err => console.log(err));
 //     },
-//     return()
+//     return ()
 //     )
 // };
 

@@ -6,8 +6,9 @@ import Navbar from "./components/navbar";
 import Footer from "./components/footer";
 import Projects from "./components/projects";
 import Resume from "./components/resume";
-import Headshot from './assets/Headshot.jpg'
-import PortfolioPage from "./components/portfolioPage"
+import Headshot from './assets/Headshot.jpg';
+import PortfolioPage from "./components/portfolioPage";
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 function App() {

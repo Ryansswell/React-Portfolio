@@ -3,30 +3,30 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
     return (
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-            <div class="container">
-                <a class="navbar-brand" href="/">Ryan Anderson</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+            <div className="container">
+                <a className="navbar-brand" href="/">Ryan Anderson</a>
+                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                     aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
+                    <span className="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ml-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="/about" target="">About Me</a>
+                <div className="collapse navbar-collapse" id="navbarResponsive">
+                    <ul className="navbar-nav ml-auto">
+                        <li className="nav-item active">
+                            <a className="nav-link" href="/about" target="">About Me</a>
                         </li>
-                        <li class="nav-item">
-                            <Link className="nav-link" to="https://www.linkedin.com/in/ryan-anderson-52842784/">
+                        <li className="nav-item">
+                            <a className="nav-link" href="https://www.linkedin.com/in/ryan-anderson-52842784/">
                                 LinkedIn
-            </Link>
+                            </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://github.com/Ryansswell" target="_blank">GitHub</a>
+                        <li className="nav-item">
+                            <a className="nav-link" href="https://github.com/Ryansswell" target="_blank" rel="noreferrer">GitHub</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="Resume.pdf" target="_blank">Resume</a>
+                        <li className="nav-item">
+                            <a className="nav-link" href="Resume.pdf" target="_blank">Resume</a>
                         </li>
-                        <li class="nav-item">
+                        <li className="nav-item">
                             <Link className="nav-link" to="/portfolio">Portfolio</Link>
                         </li>
                     </ul>
