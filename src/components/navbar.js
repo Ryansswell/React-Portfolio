@@ -24,9 +24,6 @@ function Navbar() {
                             <a className="nav-link" href="https://github.com/Ryansswell" target="_blank" rel="noreferrer">GitHub</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="Resume.pdf" target="_blank">Resume</a>
-                        </li>
-                        <li className="nav-item">
                             <Link className="nav-link" to="/portfolio">Portfolio</Link>
                         </li>
                     </ul>
