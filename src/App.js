@@ -29,6 +29,7 @@ function App() {
                     <Redirect to="/" />
                 </Route>
             </Switch>
+            <Footer />
         </Router>
     );
 }

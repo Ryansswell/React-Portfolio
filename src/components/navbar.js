@@ -16,7 +16,7 @@ function Navbar() {
                             <a className="nav-link" href="/about" target="">About Me</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="https://www.linkedin.com/in/ryan-anderson-52842784/">
+                            <a className="nav-link" href="https://www.linkedin.com/in/ryan-anderson-52842784/" target="_blank" rel="noreferrer">
                                 LinkedIn
                             </a>
                         </li>

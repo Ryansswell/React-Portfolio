@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar-nav > li > a.active,
+.navbar-nav > li > a:active.focus {
+  border-top: 0.2rem rgb(214, 250, 129);
+}
