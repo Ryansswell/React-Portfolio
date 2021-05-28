@@ -7,13 +7,28 @@ const PortfolioArray = [
     {
         "id": 1,
         "imgSrc": "/character-mickeymouse.jpeg",
-        "description": "Fry Cook"
+        "description": "REACT Google Books Search"
     },
     {
         "id": 2,
         "imgSrc": "/goldy-spirit.jfif",
-        "description": "Restaurant Owner"
-    }
+        "description": "User Directory"
+    },
+    {
+        "id": 3,
+        "imgSrc": "/goldy-spirit.jfif",
+        "description": "Budget Tracker"
+    },
+    {
+        "id": 4,
+        "imgSrc": "/goldy-spirit.jfif",
+        "description": "Create ReadMe files"
+    },
+    {
+        "id": 5,
+        "imgSrc": "/goldy-spirit.jfif",
+        "description": "Final Project!!"
+    },
 ]
 
 export default PortfolioArray;
