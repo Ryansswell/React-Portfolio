@@ -11,7 +11,7 @@ class PortfolioPage extends Component {
             <div className="container">
                 <h2>
                     Ryan Anderson
-            </h2>
+                </h2>
                 <div className="row">
                     {this.state.PortfolioArray.map(portData =>
                     (
@@ -28,7 +28,7 @@ class PortfolioPage extends Component {
                 </div>
                 <h2>
                     Portfolio
-            </h2>
+                </h2>
             </div>
         )
     }
