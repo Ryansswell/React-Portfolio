@@ -16,19 +16,13 @@ function about() {
                         <div className="container" id="about">
                             <h1>About Me</h1>
                             <p className="lead">Life is the best when you can enjoy the journey!</p>
-                            <p>I am on the journey of becoming a Software Devoloper! I am in the final stages of finishing up UCSD's Coding Bootcamp.
-                                I can't believe how much I have learned so far and how bad my head hurts from studying daily. I have been intrigued with Coding and Software development for several years and now finally taking the leap to becoming knowledgeable and experienced.
+                            <p>I am on the journey of becoming a Software Devoloper! I have finished my UCSD Coding Bootcamp.
+                                I can't believe how much I have learned so far and excited to keep learning. I have been intrigued with Coding and Software development for several years and now finally taking the leap to becoming knowledgeable and experienced.
                                 I know I can do anything I put my mind to and excited for the endless learning in this great field!
 
                             </p>
-                            <p>I am so fortunate to call San Diego my home! Growing up in Colorado, I have always appreciated the outdoors and
-                                making great friends.
-                                Surfing is my favorite hobby and favorite workout. I dream about surfing when I am not coding! I have been
-                                fortunate to be able to surf all over Ecuador, Costa
-                                Rica, Mexico and Hawaii.
-                                Traveling has always been one of my favorite hobbies, along with experiencing new cultures and people!
-
-                                Living out true passions and making slight improvements everyday is amazing.
+                            <p>
+                                Living out true passions and making slight improvements everyday is rewarding!.
                             </p>
                         </div>
                     </section>
