@@ -27,7 +27,7 @@ class PortfolioPage extends Component {
                     )}
                 </div>
                 <h2>
-                    Portfolio
+                    Portfolio Projects
                 </h2>
             </div>
         )
