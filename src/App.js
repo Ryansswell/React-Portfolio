@@ -14,6 +14,7 @@ import './App.css';
 function App() {
     return (
         <Router basename={process.env.PUBLIC_URL}>
+            <Home> </Home>
             <Navbar />
             <Switch>
                 <Route exact path="/">

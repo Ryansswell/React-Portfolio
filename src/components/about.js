@@ -1,5 +1,4 @@
 import React from "react";
-import IMG_2941 from "../assets/IMG_2941.jpg"
 import Headshot from '../assets/Headshot.jpg'
 
 function about() {
@@ -10,9 +9,6 @@ function about() {
             </h2>
             <div className="container">
                 <div className="row">
-                    <header className="py-5 col" >
-                        <img className="img-fluid d-block mx-auto" src={IMG_2941} alt="IMG_2941" />
-                    </header>
                     <header className="py-5 col" >
                         <img className="img-fluid d-block mx-auto" src={Headshot} alt="Headshot" />
                     </header>
