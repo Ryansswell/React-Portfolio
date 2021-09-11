@@ -17,8 +17,8 @@ function about() {
                             <h1>About Me</h1>
                             <p className="lead">Life is the best when you can enjoy the journey!</p>
                             <p>I am on the journey of becoming a Software Devoloper! I have finished my UCSD Coding Bootcamp.
-                                I can't believe how much I have learned so far and excited to keep learning. I have been intrigued with Coding and Software development for several years and now finally taking the leap to becoming knowledgeable and experienced.
-                                I know I can do anything I put my mind to and excited for the endless learning in this great field!
+                                I have been intrigued with Coding and Software development for several years and now finally taking the leap to becoming knowledgeable and experienced.
+                                I am shocked at how much I have learned so far and excited to keep learning. I know I can do anything I put my mind to and excited for the endless learning in this great field!
 
                             </p>
                             <p>
